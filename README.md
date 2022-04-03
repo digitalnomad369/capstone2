@@ -1,4 +1,4 @@
-# # Capstone Project II - Files ##
+# Capstone Project II - Files #
 
 # CONTENTS #
 
